@@ -31,16 +31,16 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:- [HUSSEIN](https://t.me/MR_HC6)
+- 📱 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:- [HUSSEIN](https://t.me/hr_49)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [Hussein](https://github.com/l5lmqq)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [Hussein](https://github.com/hwqf/VIP-11)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 
-https://github.com/l5lmqq/VIP-10.git
+https://github.com/hwqf/VIP-11
 
 cd VIP-11
 
